@@ -1,9 +1,9 @@
 # Snake-Game
 Beginner's Project
 
-Download repository Snake-Game as a .zip.
+Download repository Snake-Game as a .zip and extract the file.
 
-Run it in your preferred Java program (i.e. Eclipse).
+Open in your preferred Java program (i.e. Eclipse). 
 
 Use arrow keys to move Snake.
 
