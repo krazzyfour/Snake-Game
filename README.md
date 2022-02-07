@@ -1,8 +1,6 @@
 # Snake-Game
 //Very simple Snake game
 
-//Beginner's Project
-
 To open the project with Eclipse:
 
 First Copy the URL of the Repository Snake-Game
