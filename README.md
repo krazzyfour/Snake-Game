@@ -1,10 +1,17 @@
 # Snake-Game
-Beginner's Project
+//Very simple Snake game 
+//Beginner's Project
 
-Download repository Snake-Game as a .zip and extract the file.
+To open the project with Eclipse:
 
-Open in your preferred Java program (i.e. Eclipse). 
+First Copy the URL of the Repository Snake-Game
 
-Use arrow keys to move Snake.
+Go to Eclipse and go to File>Import>Git>Projects from Git>Clone URL
 
-Remove line 66 in the GamePanel class if you don't want the random color changing Snake.
+Paste the URL of the Repository and select a destination folder
+
+Once imported, Run the SnakeGame class
+
+Use arrow keys to move Snake
+
+Remove line 66 in the GamePanel class if you don't want the random color changing Snake
