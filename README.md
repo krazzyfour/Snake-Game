@@ -1,5 +1,6 @@
 # Snake-Game
-//Very simple Snake game 
+//Very simple Snake game
+
 //Beginner's Project
 
 To open the project with Eclipse:
